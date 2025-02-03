@@ -9,9 +9,6 @@ This project demonstrates real-time object and face detection using the YOLOv8 o
 - [Installation](#installation)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
-- [Code Explanation](#code-explanation)
-
-
 
 ## Installation
 
@@ -36,6 +33,7 @@ This project demonstrates real-time object and face detection using the YOLOv8 o
 
 # Quit:
 - Press the 'q' key to exit the application.
+![test](https://github.com/user-attachments/assets/26133b14-c6ae-482e-a899-a54ad3452b72)
 
 
 ## Dependencies
