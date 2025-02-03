@@ -18,8 +18,8 @@ This project demonstrates real-time object and face detection using the YOLOv8 o
 1. **Clone the repository (optional):**  If you're using Git, you can clone the repository:
 
    ```bash
-   git clone [https://github.com/](https://github.com/)[your_username]/[your_repository_name].git  # Replace with your repo URL
-   cd [your_repository_name]
+   git clone: https://github.com/DeepPiCar/rachna-research-results.git
+
 
 ## Create a virtual environment
 - python3 -m venv .venv  # Or python -m venv .venv depending on your setup
@@ -36,7 +36,7 @@ This project demonstrates real-time object and face detection using the YOLOv8 o
 
 # Quit:
 - Press the 'q' key to exit the application.
-![alt text](../test.png)
+
 
 ## Dependencies
 - ultralytics: For using the YOLOv8 object detection model.
